@@ -1,0 +1,1 @@
+Este projeto é uma aplicação em Python que automatiza o preenchimento de cadastros de produtos em um sistema web. Utilizando a biblioteca PyAutoGUI, o script simula interações humanas para realizar tarefas repetitivas, como preenchimento de formulários, de forma eficiente e precisa.
